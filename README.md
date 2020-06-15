@@ -1,5 +1,7 @@
 # Bookshelves
 
+A book management application. The user can create, modify, delete a book. This can also add a cover page. In addition, it uses firebase to store books and authenticate users.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
 ## Development server

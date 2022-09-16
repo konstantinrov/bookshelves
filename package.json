@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.0.5",
     "@angular/platform-browser-dynamic": "~9.0.5",
     "@angular/router": "~9.0.5",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "firebase": "^7.11.0",
     "rxjs": "~6.5.4",
     "rxjs-compat": "^6.5.4",
